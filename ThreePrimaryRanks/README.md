@@ -1,3 +1,9 @@
+![RankedStarArt](RankedStarArt.png)
+
+<br>
+
+---
+
 CoPilot basic intro:
 
 # Three Primary Ranks
