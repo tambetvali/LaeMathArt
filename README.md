@@ -1,3 +1,7 @@
+![Mathematical Art](MathArt.png)
+
+<br>
+
 # LaeMathArt
 
 **CoPilot's introduction**
